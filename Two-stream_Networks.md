@@ -1,8 +1,8 @@
-# Two-Stream Convolutional Networks for Action Recognition in Videos
+# Two-Stream Convolutional Networks for Action Recognition in Videos（2014）
 
 **[论文链接(点击此处)](https://arxiv.org/pdf/1406.2199)**
 
-## 核心贡献
+## 核心创新点
 - 首次提出双流的神经网络架构，一个网络处理空间流信息(静态图片)，一个网络处理时间流信息(时序)
 - 首次将光流信息作为CNN网络的输入，从而捕捉时序信息
 - 验证在ImageNet上预训练的模型可以有效迁移到视频理解任务上
